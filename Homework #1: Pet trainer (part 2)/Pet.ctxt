@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pet
+comment1.params=name\ health\ energy\ happiness
+comment1.target=Pet(java.lang.String,\ int,\ int,\ int)
+comment1.text=constructor\ method
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=return\ a\ string\ stating\ name,\ health,\ energy,and\ happiness
+comment3.params=
+comment3.target=java.lang.String\ feed()
+comment4.params=
+comment4.target=java.lang.String\ walk()
+comment5.params=
+comment5.target=void\ range()
+comment6.params=
+comment6.target=int\ sum()
+numComments=7
